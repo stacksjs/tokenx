@@ -50,9 +50,9 @@
     "@stacksjs/tokenx": "workspace:*"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.10",
-    "lint-staged": "^15.5.1",
-    "simple-git-hooks": "^2.12.1",
+    "@types/bun": "^1.2.12",
+    "lint-staged": "^15.5.2",
+    "simple-git-hooks": "^2.13.0",
     "typescript": "^5.8.3"
   },
   "lint-staged": {
